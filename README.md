@@ -193,7 +193,6 @@ Set `ENRICH_LIMIT = 25` for a test slice before committing to a full run.
 
 ```
 leadgen_pipeline_v2.ipynb    Current version — four scenarios, hard gates
-leadgen_pipeline_v1.ipynb    Single-scenario original, kept for reference
 README.md
 ```
 
